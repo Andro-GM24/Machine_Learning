@@ -1,0 +1,8 @@
+numpy
+pandas
+requests
+beautifulsoup4
+selenium
+openpyxl # Para trabajar con archivos Excel si lo necesitas con pandas
+lxml     # Opcional, pero mejora el rendimiento de BeautifulSoup
+webdriver-manager # Para gestionar automáticamente los drivers de Selenium
